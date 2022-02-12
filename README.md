@@ -17,7 +17,6 @@ Skills: REACT / JS / HTML / CSS / BOOSTRAP
 <a href="https://linkedin.com/in/kajanan-kathirgamanathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kajanan-kathirgamanathan" height="30" width="40" /></a>
 <a href="https://fb.com/kajanan2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kajanan2000" height="30" width="40" /></a>
 <a href="https://instagram.com/kajanan_2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kajanan_2000" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc_pctvhd6fpcm2bwp_xlo7w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc_pctvhd6fpcm2bwp_xlo7w" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kajanan02000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kajanan02000" height="30" width="40" /></a>
 </p>
 
