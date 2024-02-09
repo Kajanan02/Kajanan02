@@ -1,13 +1,13 @@
 ### Hi there 👋, My name is Kajanan
 #### A passionate Full Stack & Mobile developer from Sri Lanka :)
-I am a Full Stack Web Developer And, I have a keen problem-solving skill with good communicaon skill. Moreover, I have a huge passion for Front-End Development.I have more than three year experience in Front-End Development and also I have more than two year working experience. I always wanted to spend more me on Front-End to deliver an affordable product. In programming, I have some experience in MERN and, have the ability to learn new technology and start working on it.
+I am a Full Stack Web Developer And, I have a keen problem-solving skill with good communication skills. Moreover, I have a huge passion for Front-End Development. I have more than four years of experience in Front-End Development and also I have more than three years of working experience. I always wanted to spend more me on Front-End to deliver an affordable product. In programming, I have some experience in MERN and, can learn new technology and start working on it.
 
-Skills: REACT / JS / HTML / CSS / BOOSTRAP
+Skills: REACT / JS / HTML / CSS / BOOTSTRAP
 
 - 🌱 I’m currently learning Computer Science and Technology 
 - 👯 I’m looking to collaborate on Open Source Project
-- 💬 Ask me about React / HTML / CSS/ JS  
-- 📫 How to reach me: Email 
+- 💬 Ask me about React / HTML / CSS/ JS / React Native
+- 📫 How to reach me:  [kajanan02000@gmail.com](mailto:kajanan02000@gmail.com) 
 - 😄 Pronouns: Kajanan 
 
 
