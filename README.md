@@ -27,8 +27,9 @@ Skills: REACT / JS / HTML / CSS / BOOTSTRAP
 <p style="margin-bottom: 20px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kajanan02&show_icons=true&locale=en&layout=compact" alt="kajanan02" style="margin-bottom: 20px;"/></p>
 <p></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kajanan02&label=Profile%20views&color=0e75b6&style=flat" alt="kajanan02" /> </p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kajanan02&show_icons=true&locale=en" alt="kajanan02" /></p>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kajanan02&label=Profile%20views&color=0e75b6&style=flat" alt="kajanan02" /> </p>
