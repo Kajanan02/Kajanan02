@@ -118,17 +118,11 @@ I’m always excited to explore emerging technologies, contribute to open-source
 
 ### 🌱 Open Source Contributions
 
-- 📦 [react-native-searchable-dropdown-kj](https://github.com/Kajanan02/react-native-searchable-dropdown-kj)  
-  A customizable React Native dropdown component for iOS and Android.  
-  [`npm`](https://www.npmjs.com/package/react-native-searchable-dropdown-kj)
+- 📦 [react-native-searchable-dropdown-kj](https://github.com/Kajanan02/react-native-searchable-dropdown-kj) A customizable React Native dropdown component for iOS and Android. [`npm`](https://www.npmjs.com/package/react-native-searchable-dropdown-kj)
 
-- 📱 [react-native-send-direct-sms](https://github.com/Kajanan02/react-native-send-direct-sms)  
-  A React Native package for sending SMS messages directly from mobile apps.  
-  [`npm`](https://www.npmjs.com/package/react-native-send-direct-sms)
+- 📱 [react-native-send-direct-sms](https://github.com/Kajanan02/react-native-send-direct-sms) A React Native package for sending SMS messages directly from mobile apps. [`npm`](https://www.npmjs.com/package/react-native-send-direct-sms)
 
-- ⚛️ [react-form-buddy](https://github.com/Kajanan02/react-form-buddy)  
-  A lightweight React form handler for validation, state management, and form submission.  
-  [`npm`](https://www.npmjs.com/package/react-form-buddy)
+- ⚛️ [react-form-buddy](https://github.com/Kajanan02/react-form-buddy) A lightweight React form handler for validation, state management, and form submission. [`npm`](https://www.npmjs.com/package/react-form-buddy)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajanan02&label=Profile%20views&color=0e75b6&style=flat" alt="kajanan02" /> </p>
