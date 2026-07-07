@@ -27,8 +27,6 @@ I’m always excited to explore emerging technologies, contribute to open-source
 
 ---
 
----
-
 ### 🛠️ Tech Stack & Tools
 
 #### 💻 Languages
